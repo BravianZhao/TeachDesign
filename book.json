@@ -1,0 +1,14 @@
+{
+  "plugins": [
+        "expandable-chapters"
+        ,"page-toc"
+        ,"anchor-navigation"
+        ,"zealar"
+        ,"back-to-top-button"
+    ],
+  "pluginsConfig": {
+        "expandable-chapters":{
+
+        }
+    }
+}
